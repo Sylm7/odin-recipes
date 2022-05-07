@@ -6,3 +6,5 @@ The Odin Project Recipe Assignment
 
 The Odin Project
     https://www.theodinproject.com/
+Live Preview
+    https://sylm7.github.io/odin-recipes/
