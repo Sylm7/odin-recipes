@@ -9,7 +9,7 @@ h2{
     text-align: left;
 }
 body{
-    background-color: gray;
+    background-color: rgb(248, 221, 246);
     text-align: center;
 }
 img{
@@ -18,7 +18,23 @@ img{
 }
 li{
     text-align: left;
+    
 }
 .cen{
     text-align: center;
+}
+ul li img{
+    width: 100px;
+    height: auto;
+}
+.i-li{
+    display: inline-flex;
+    margin: 20px;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none; 
+}
+a:hover img{
+    width: 150px;
+    height: auto;
 }
